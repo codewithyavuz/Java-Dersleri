@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-Dersleri" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hicoders-css-html-" vcs="Git" />
   </component>
 </project>
